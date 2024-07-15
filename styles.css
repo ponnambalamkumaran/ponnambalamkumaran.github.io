@@ -4,7 +4,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #ffdd57;
+    background-color: #ffdd57; /* Set the background to a yellow color */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,7 +13,7 @@ body, html {
 .container {
     width: 100%;
     max-width: 600px;
-    background-color: #fff;
+    background-color: #fff; /* Keeps the content box white */
     padding: 20px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
