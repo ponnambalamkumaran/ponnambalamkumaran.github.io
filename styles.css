@@ -47,12 +47,4 @@ a:hover {
     text-decoration: underline;
 }
 
-.title-header {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #ffdd57; /* Same as the body background for a consistent look */
-    color: #333; /* Optional: Adjust the color to fit your design */
-    font-size: 24px; /* Larger font size for visibility */
-    width: 100%; /* Ensures it spans the full width at the top */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow for depth */
-}
+
